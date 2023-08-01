@@ -1,0 +1,3730 @@
+{
+  "code": "200000",
+  "data": [{
+      "symbol": "LOKI-BTC"
+    },
+    {
+      "symbol": "LOKI-ETH"
+    },
+    {
+      "symbol": "NRG-BTC"
+    },
+    {
+      "symbol": "AVA-USDT"
+    },
+    {
+      "symbol": "FET-BTC"
+    },
+    {
+      "symbol": "FET-ETH"
+    },
+    {
+      "symbol": "ANKR-BTC"
+    },
+    {
+      "symbol": "XMR-BTC"
+    },
+    {
+      "symbol": "XMR-ETH"
+    },
+    {
+      "symbol": "MTV-BTC"
+    },
+    {
+      "symbol": "MTV-ETH"
+    },
+    {
+      "symbol": "CRO-BTC"
+    },
+    {
+      "symbol": "MTV-USDT"
+    },
+    {
+      "symbol": "KMD-BTC"
+    },
+    {
+      "symbol": "KMD-USDT"
+    },
+    {
+      "symbol": "RFOX-USDT"
+    },
+    {
+      "symbol": "TEL-USDT"
+    },
+    {
+      "symbol": "TT-USDT"
+    },
+    {
+      "symbol": "AERGO-USDT"
+    },
+    {
+      "symbol": "XMR-USDT"
+    },
+    {
+      "symbol": "TRX-KCS"
+    },
+    {
+      "symbol": "ATOM-BTC"
+    },
+    {
+      "symbol": "ATOM-ETH"
+    },
+    {
+      "symbol": "ATOM-USDT"
+    },
+    {
+      "symbol": "ATOM-KCS"
+    },
+    {
+      "symbol": "ETN-USDT"
+    },
+    {
+      "symbol": "FTM-USDT"
+    },
+    {
+      "symbol": "VSYS-USDT"
+    },
+    {
+      "symbol": "OCEAN-BTC"
+    },
+    {
+      "symbol": "OCEAN-ETH"
+    },
+    {
+      "symbol": "CHR-BTC"
+    },
+    {
+      "symbol": "CHR-USDT"
+    },
+    {
+      "symbol": "FX-BTC"
+    },
+    {
+      "symbol": "FX-ETH"
+    },
+    {
+      "symbol": "NIM-BTC"
+    },
+    {
+      "symbol": "NIM-ETH"
+    },
+    {
+      "symbol": "COTI-BTC"
+    },
+    {
+      "symbol": "COTI-USDT"
+    },
+    {
+      "symbol": "NRG-ETH"
+    },
+    {
+      "symbol": "BNB-BTC"
+    },
+    {
+      "symbol": "BNB-USDT"
+    },
+    {
+      "symbol": "JAR-BTC"
+    },
+    {
+      "symbol": "JAR-USDT"
+    },
+    {
+      "symbol": "ALGO-BTC"
+    },
+    {
+      "symbol": "ALGO-ETH"
+    },
+    {
+      "symbol": "ALGO-USDT"
+    },
+    {
+      "symbol": "XEM-BTC"
+    },
+    {
+      "symbol": "XEM-USDT"
+    },
+    {
+      "symbol": "CIX100-USDT"
+    },
+    {
+      "symbol": "XTZ-BTC"
+    },
+    {
+      "symbol": "XTZ-USDT"
+    },
+    {
+      "symbol": "ZEC-BTC"
+    },
+    {
+      "symbol": "ZEC-USDT"
+    },
+    {
+      "symbol": "ADA-BTC"
+    },
+    {
+      "symbol": "ADA-USDT"
+    },
+    {
+      "symbol": "R-USDT"
+    },
+    {
+      "symbol": "WXT-BTC"
+    },
+    {
+      "symbol": "WXT-USDT"
+    },
+    {
+      "symbol": "FORESTPLUS-BTC"
+    },
+    {
+      "symbol": "FORESTPLUS-USDT"
+    },
+    {
+      "symbol": "BOLT-BTC"
+    },
+    {
+      "symbol": "BOLT-USDT"
+    },
+    {
+      "symbol": "ARPA-USDT"
+    },
+    {
+      "symbol": "CHZ-BTC"
+    },
+    {
+      "symbol": "CHZ-USDT"
+    },
+    {
+      "symbol": "DAPPT-BTC"
+    },
+    {
+      "symbol": "DAPPT-USDT"
+    },
+    {
+      "symbol": "NOIA-BTC"
+    },
+    {
+      "symbol": "NOIA-USDT"
+    },
+    {
+      "symbol": "WIN-BTC"
+    },
+    {
+      "symbol": "WIN-USDT"
+    },
+    {
+      "symbol": "DERO-BTC"
+    },
+    {
+      "symbol": "DERO-USDT"
+    },
+    {
+      "symbol": "BTT-USDT"
+    },
+    {
+      "symbol": "EOSC-USDT"
+    },
+    {
+      "symbol": "ENQ-BTC"
+    },
+    {
+      "symbol": "ENQ-USDT"
+    },
+    {
+      "symbol": "ONE-BTC"
+    },
+    {
+      "symbol": "ONE-USDT"
+    },
+    {
+      "symbol": "TOKO-BTC"
+    },
+    {
+      "symbol": "TOKO-USDT"
+    },
+    {
+      "symbol": "VID-BTC"
+    },
+    {
+      "symbol": "VID-USDT"
+    },
+    {
+      "symbol": "LUNA-USDT"
+    },
+    {
+      "symbol": "SXP-BTC"
+    },
+    {
+      "symbol": "SXP-USDT"
+    },
+    {
+      "symbol": "AKRO-BTC"
+    },
+    {
+      "symbol": "AKRO-USDT"
+    },
+    {
+      "symbol": "ROOBEE-BTC"
+    },
+    {
+      "symbol": "WIN-TRX"
+    },
+    {
+      "symbol": "MAP-BTC"
+    },
+    {
+      "symbol": "MAP-USDT"
+    },
+    {
+      "symbol": "AMPL-BTC"
+    },
+    {
+      "symbol": "AMPL-USDT"
+    },
+    {
+      "symbol": "DAG-USDT"
+    },
+    {
+      "symbol": "POL-USDT"
+    },
+    {
+      "symbol": "ARX-USDT"
+    },
+    {
+      "symbol": "NWC-BTC"
+    },
+    {
+      "symbol": "NWC-USDT"
+    },
+    {
+      "symbol": "BEPRO-BTC"
+    },
+    {
+      "symbol": "BEPRO-USDT"
+    },
+    {
+      "symbol": "VRA-BTC"
+    },
+    {
+      "symbol": "VRA-USDT"
+    },
+    {
+      "symbol": "KSM-BTC"
+    },
+    {
+      "symbol": "KSM-USDT"
+    },
+    {
+      "symbol": "DASH-USDT"
+    },
+    {
+      "symbol": "SUTER-USDT"
+    },
+    {
+      "symbol": "ACOIN-USDT"
+    },
+    {
+      "symbol": "SUTER-BTC"
+    },
+    {
+      "symbol": "SENSO-USDT"
+    },
+    {
+      "symbol": "PRE-BTC"
+    },
+    {
+      "symbol": "XDB-USDT"
+    },
+    {
+      "symbol": "SYLO-USDT"
+    },
+    {
+      "symbol": "WOM-USDT"
+    },
+    {
+      "symbol": "SENSO-BTC"
+    },
+    {
+      "symbol": "DGB-USDT"
+    },
+    {
+      "symbol": "LYXE-USDT"
+    },
+    {
+      "symbol": "LYXE-ETH"
+    },
+    {
+      "symbol": "XDB-BTC"
+    },
+    {
+      "symbol": "STX-BTC"
+    },
+    {
+      "symbol": "STX-USDT"
+    },
+    {
+      "symbol": "COMP-USDT"
+    },
+    {
+      "symbol": "CRO-USDT"
+    },
+    {
+      "symbol": "KAI-USDT"
+    },
+    {
+      "symbol": "KAI-BTC"
+    },
+    {
+      "symbol": "WEST-BTC"
+    },
+    {
+      "symbol": "WEST-USDT"
+    },
+    {
+      "symbol": "EWT-BTC"
+    },
+    {
+      "symbol": "WAVES-USDT"
+    },
+    {
+      "symbol": "WAVES-BTC"
+    },
+    {
+      "symbol": "ORN-USDT"
+    },
+    {
+      "symbol": "AMPL-ETH"
+    },
+    {
+      "symbol": "BNS-USDT"
+    },
+    {
+      "symbol": "MKR-USDT"
+    },
+    {
+      "symbol": "SUKU-BTC"
+    },
+    {
+      "symbol": "MLK-BTC"
+    },
+    {
+      "symbol": "MLK-USDT"
+    },
+    {
+      "symbol": "JST-USDT"
+    },
+    {
+      "symbol": "KAI-ETH"
+    },
+    {
+      "symbol": "SUKU-USDT"
+    },
+    {
+      "symbol": "DIA-USDT"
+    },
+    {
+      "symbol": "DIA-BTC"
+    },
+    {
+      "symbol": "LINK-BTC"
+    },
+    {
+      "symbol": "LINK-USDT"
+    },
+    {
+      "symbol": "DOT-USDT"
+    },
+    {
+      "symbol": "DOT-BTC"
+    },
+    {
+      "symbol": "SHA-BTC"
+    },
+    {
+      "symbol": "SHA-USDT"
+    },
+    {
+      "symbol": "EWT-USDT"
+    },
+    {
+      "symbol": "USDJ-USDT"
+    },
+    {
+      "symbol": "EFX-BTC"
+    },
+    {
+      "symbol": "CKB-BTC"
+    },
+    {
+      "symbol": "CKB-USDT"
+    },
+    {
+      "symbol": "UMA-USDT"
+    },
+    {
+      "symbol": "ALEPH-USDT"
+    },
+    {
+      "symbol": "VELO-USDT"
+    },
+    {
+      "symbol": "SUN-USDT"
+    },
+    {
+      "symbol": "BUY-USDT"
+    },
+    {
+      "symbol": "YFI-USDT"
+    },
+    {
+      "symbol": "LOKI-USDT"
+    },
+    {
+      "symbol": "UNI-USDT"
+    },
+    {
+      "symbol": "UOS-USDT"
+    },
+    {
+      "symbol": "UOS-BTC"
+    },
+    {
+      "symbol": "NIM-USDT"
+    },
+    {
+      "symbol": "DEGO-USDT"
+    },
+    {
+      "symbol": "DEGO-ETH"
+    },
+    {
+      "symbol": "RFUEL-USDT"
+    },
+    {
+      "symbol": "FIL-USDT"
+    },
+    {
+      "symbol": "UBX-ETH"
+    },
+    {
+      "symbol": "REAP-USDT"
+    },
+    {
+      "symbol": "AAVE-USDT"
+    },
+    {
+      "symbol": "AAVE-BTC"
+    },
+    {
+      "symbol": "TONE-BTC"
+    },
+    {
+      "symbol": "TONE-ETH"
+    },
+    {
+      "symbol": "ELF-ETH"
+    },
+    {
+      "symbol": "AERGO-BTC"
+    },
+    {
+      "symbol": "IOST-ETH"
+    },
+    {
+      "symbol": "KCS-USDT"
+    },
+    {
+      "symbol": "SNX-ETH"
+    },
+    {
+      "symbol": "KCS-ETH"
+    },
+    {
+      "symbol": "DRGN-BTC"
+    },
+    {
+      "symbol": "WAN-ETH"
+    },
+    {
+      "symbol": "NULS-ETH"
+    },
+    {
+      "symbol": "AXPR-ETH"
+    },
+    {
+      "symbol": "QTUM-BTC"
+    },
+    {
+      "symbol": "MANA-BTC"
+    },
+    {
+      "symbol": "TEL-BTC"
+    },
+    {
+      "symbol": "XYO-ETH"
+    },
+    {
+      "symbol": "AXPR-BTC"
+    },
+    {
+      "symbol": "ETN-BTC"
+    },
+    {
+      "symbol": "COV-ETH"
+    },
+    {
+      "symbol": "VET-BTC"
+    },
+    {
+      "symbol": "KCS-BTC"
+    },
+    {
+      "symbol": "CAPP-ETH"
+    },
+    {
+      "symbol": "ONT-BTC"
+    },
+    {
+      "symbol": "DRGN-ETH"
+    },
+    {
+      "symbol": "DAG-ETH"
+    },
+    {
+      "symbol": "WAN-BTC"
+    },
+    {
+      "symbol": "KNC-ETH"
+    },
+    {
+      "symbol": "CRPT-ETH"
+    },
+    {
+      "symbol": "LTC-USDT"
+    },
+    {
+      "symbol": "BAX-ETH"
+    },
+    {
+      "symbol": "BCHSV-USDT"
+    },
+    {
+      "symbol": "DENT-ETH"
+    },
+    {
+      "symbol": "LYM-ETH"
+    },
+    {
+      "symbol": "TRAC-ETH"
+    },
+    {
+      "symbol": "ENJ-BTC"
+    },
+    {
+      "symbol": "WAX-BTC"
+    },
+    {
+      "symbol": "DGB-BTC"
+    },
+    {
+      "symbol": "ELA-BTC"
+    },
+    {
+      "symbol": "ZIL-BTC"
+    },
+    {
+      "symbol": "BCHSV-BTC"
+    },
+    {
+      "symbol": "XLM-USDT"
+    },
+    {
+      "symbol": "IOTX-ETH"
+    },
+    {
+      "symbol": "SOUL-BTC"
+    },
+    {
+      "symbol": "DOCK-BTC"
+    },
+    {
+      "symbol": "AMB-ETH"
+    },
+    {
+      "symbol": "TRX-BTC"
+    },
+    {
+      "symbol": "XRP-TUSD"
+    },
+    {
+      "symbol": "NULS-BTC"
+    },
+    {
+      "symbol": "ETH-DAI"
+    },
+    {
+      "symbol": "LSK-BTC"
+    },
+    {
+      "symbol": "GMB-ETH"
+    },
+    {
+      "symbol": "GMB-BTC"
+    },
+    {
+      "symbol": "NEO-ETH"
+    },
+    {
+      "symbol": "OMG-ETH"
+    },
+    {
+      "symbol": "BTC-TUSD"
+    },
+    {
+      "symbol": "KAT-USDT"
+    },
+    {
+      "symbol": "KNC-BTC"
+    },
+    {
+      "symbol": "ELF-BTC"
+    },
+    {
+      "symbol": "MANA-ETH"
+    },
+    {
+      "symbol": "ETC-USDT"
+    },
+    {
+      "symbol": "ONT-ETH"
+    },
+    {
+      "symbol": "MKR-BTC"
+    },
+    {
+      "symbol": "KAT-BTC"
+    },
+    {
+      "symbol": "XRP-USDC"
+    },
+    {
+      "symbol": "XYO-BTC"
+    },
+    {
+      "symbol": "ZRX-BTC"
+    },
+    {
+      "symbol": "LOOM-ETH"
+    },
+    {
+      "symbol": "OLT-ETH"
+    },
+    {
+      "symbol": "OLT-BTC"
+    },
+    {
+      "symbol": "TRAC-BTC"
+    },
+    {
+      "symbol": "XLM-ETH"
+    },
+    {
+      "symbol": "ETH-USDT"
+    },
+    {
+      "symbol": "BCHSV-ETH"
+    },
+    {
+      "symbol": "TRX-ETH"
+    },
+    {
+      "symbol": "ETN-ETH"
+    },
+    {
+      "symbol": "AOA-USDT"
+    },
+    {
+      "symbol": "DENT-BTC"
+    },
+    {
+      "symbol": "DOCK-ETH"
+    },
+    {
+      "symbol": "KEY-BTC"
+    },
+    {
+      "symbol": "EOS-KCS"
+    },
+    {
+      "symbol": "XLM-BTC"
+    },
+    {
+      "symbol": "ADB-ETH"
+    },
+    {
+      "symbol": "TIME-ETH"
+    },
+    {
+      "symbol": "CVC-BTC"
+    },
+    {
+      "symbol": "LSK-ETH"
+    },
+    {
+      "symbol": "QKC-BTC"
+    },
+    {
+      "symbol": "AMB-BTC"
+    },
+    {
+      "symbol": "USDT-TUSD"
+    },
+    {
+      "symbol": "ETC-ETH"
+    },
+    {
+      "symbol": "XRP-BTC"
+    },
+    {
+      "symbol": "NEO-KCS"
+    },
+    {
+      "symbol": "SNX-USDT"
+    },
+    {
+      "symbol": "CRPT-BTC"
+    },
+    {
+      "symbol": "IOTX-BTC"
+    },
+    {
+      "symbol": "LTC-ETH"
+    },
+    {
+      "symbol": "XRP-KCS"
+    },
+    {
+      "symbol": "ADB-BTC"
+    },
+    {
+      "symbol": "LTC-KCS"
+    },
+    {
+      "symbol": "TEL-ETH"
+    },
+    {
+      "symbol": "DCR-ETH"
+    },
+    {
+      "symbol": "LYM-USDT"
+    },
+    {
+      "symbol": "USDT-USDC"
+    },
+    {
+      "symbol": "ETH-USDC"
+    },
+    {
+      "symbol": "DAG-BTC"
+    },
+    {
+      "symbol": "AVA-BTC"
+    },
+    {
+      "symbol": "BTC-USDT"
+    },
+    {
+      "symbol": "WAX-ETH"
+    },
+    {
+      "symbol": "XRP-USDT"
+    },
+    {
+      "symbol": "KEY-ETH"
+    },
+    {
+      "symbol": "VET-ETH"
+    },
+    {
+      "symbol": "FTM-BTC"
+    },
+    {
+      "symbol": "USDT-DAI"
+    },
+    {
+      "symbol": "QKC-ETH"
+    },
+    {
+      "symbol": "ETH-BTC"
+    },
+    {
+      "symbol": "MAN-BTC"
+    },
+    {
+      "symbol": "CPC-ETH"
+    },
+    {
+      "symbol": "TRX-USDT"
+    },
+    {
+      "symbol": "BTC-DAI"
+    },
+    {
+      "symbol": "ONT-USDT"
+    },
+    {
+      "symbol": "DASH-ETH"
+    },
+    {
+      "symbol": "BAX-BTC"
+    },
+    {
+      "symbol": "AVA-ETH"
+    },
+    {
+      "symbol": "LOOM-BTC"
+    },
+    {
+      "symbol": "MVP-BTC"
+    },
+    {
+      "symbol": "MKR-ETH"
+    },
+    {
+      "symbol": "COV-BTC"
+    },
+    {
+      "symbol": "CPC-BTC"
+    },
+    {
+      "symbol": "REQ-ETH"
+    },
+    {
+      "symbol": "EOS-BTC"
+    },
+    {
+      "symbol": "LTC-BTC"
+    },
+    {
+      "symbol": "XRP-ETH"
+    },
+    {
+      "symbol": "CAPP-BTC"
+    },
+    {
+      "symbol": "FTM-ETH"
+    },
+    {
+      "symbol": "ZRX-ETH"
+    },
+    {
+      "symbol": "DGB-ETH"
+    },
+    {
+      "symbol": "VET-USDT"
+    },
+    {
+      "symbol": "REQ-BTC"
+    },
+    {
+      "symbol": "UTK-BTC"
+    },
+    {
+      "symbol": "PLAY-BTC"
+    },
+    {
+      "symbol": "UTK-ETH"
+    },
+    {
+      "symbol": "SNX-BTC"
+    },
+    {
+      "symbol": "MVP-ETH"
+    },
+    {
+      "symbol": "NEO-BTC"
+    },
+    {
+      "symbol": "SOUL-ETH"
+    },
+    {
+      "symbol": "NEO-USDT"
+    },
+    {
+      "symbol": "ELA-ETH"
+    },
+    {
+      "symbol": "OMG-BTC"
+    },
+    {
+      "symbol": "TIME-BTC"
+    },
+    {
+      "symbol": "AOA-BTC"
+    },
+    {
+      "symbol": "ETC-BTC"
+    },
+    {
+      "symbol": "DCR-BTC"
+    },
+    {
+      "symbol": "BTC-USDC"
+    },
+    {
+      "symbol": "ENJ-ETH"
+    },
+    {
+      "symbol": "IOST-BTC"
+    },
+    {
+      "symbol": "DASH-BTC"
+    },
+    {
+      "symbol": "EOS-USDT"
+    },
+    {
+      "symbol": "EOS-ETH"
+    },
+    {
+      "symbol": "ZIL-ETH"
+    },
+    {
+      "symbol": "ETH-TUSD"
+    },
+    {
+      "symbol": "GAS-BTC"
+    },
+    {
+      "symbol": "LYM-BTC"
+    },
+    {
+      "symbol": "BCH-BTC"
+    },
+    {
+      "symbol": "VSYS-BTC"
+    },
+    {
+      "symbol": "BCH-USDT"
+    },
+    {
+      "symbol": "MKR-DAI"
+    },
+    {
+      "symbol": "SOLVE-BTC"
+    },
+    {
+      "symbol": "GRIN-BTC"
+    },
+    {
+      "symbol": "GRIN-USDT"
+    },
+    {
+      "symbol": "UQC-BTC"
+    },
+    {
+      "symbol": "UQC-ETH"
+    },
+    {
+      "symbol": "OPCT-BTC"
+    },
+    {
+      "symbol": "OPCT-ETH"
+    },
+    {
+      "symbol": "PRE-USDT"
+    },
+    {
+      "symbol": "SHR-BTC"
+    },
+    {
+      "symbol": "SHR-USDT"
+    },
+    {
+      "symbol": "VIDT-USDT"
+    },
+    {
+      "symbol": "ROSE-USDT"
+    },
+    {
+      "symbol": "USDC-USDT"
+    },
+    {
+      "symbol": "CTI-USDT"
+    },
+    {
+      "symbol": "CTI-ETH"
+    },
+    {
+      "symbol": "ETH2-ETH"
+    },
+    {
+      "symbol": "BUX-BTC"
+    },
+    {
+      "symbol": "XHV-USDT"
+    },
+    {
+      "symbol": "PLU-USDT"
+    },
+    {
+      "symbol": "GRT-USDT"
+    },
+    {
+      "symbol": "CAS-BTC"
+    },
+    {
+      "symbol": "CAS-USDT"
+    },
+    {
+      "symbol": "MSWAP-BTC"
+    },
+    {
+      "symbol": "MSWAP-USDT"
+    },
+    {
+      "symbol": "GOM2-BTC"
+    },
+    {
+      "symbol": "GOM2-USDT"
+    },
+    {
+      "symbol": "REVV-BTC"
+    },
+    {
+      "symbol": "REVV-USDT"
+    },
+    {
+      "symbol": "LON-USDT"
+    },
+    {
+      "symbol": "1INCH-USDT"
+    },
+    {
+      "symbol": "LOC-USDT"
+    },
+    {
+      "symbol": "API3-USDT"
+    },
+    {
+      "symbol": "UNFI-USDT"
+    },
+    {
+      "symbol": "HTR-USDT"
+    },
+    {
+      "symbol": "FRONT-USDT"
+    },
+    {
+      "symbol": "FRONT-BTC"
+    },
+    {
+      "symbol": "WBTC-BTC"
+    },
+    {
+      "symbol": "WBTC-ETH"
+    },
+    {
+      "symbol": "MIR-USDT"
+    },
+    {
+      "symbol": "LTC-USDC"
+    },
+    {
+      "symbol": "BCH-USDC"
+    },
+    {
+      "symbol": "HYDRA-USDT"
+    },
+    {
+      "symbol": "DFI-USDT"
+    },
+    {
+      "symbol": "DFI-BTC"
+    },
+    {
+      "symbol": "CRV-USDT"
+    },
+    {
+      "symbol": "SUSHI-USDT"
+    },
+    {
+      "symbol": "FRM-USDT"
+    },
+    {
+      "symbol": "EOS-USDC"
+    },
+    {
+      "symbol": "BCHSV-USDC"
+    },
+    {
+      "symbol": "ZEN-USDT"
+    },
+    {
+      "symbol": "CUDOS-USDT"
+    },
+    {
+      "symbol": "ADA-USDC"
+    },
+    {
+      "symbol": "REN-USDT"
+    },
+    {
+      "symbol": "LRC-USDT"
+    },
+    {
+      "symbol": "LINK-USDC"
+    },
+    {
+      "symbol": "KLV-USDT"
+    },
+    {
+      "symbol": "KLV-BTC"
+    },
+    {
+      "symbol": "BOA-USDT"
+    },
+    {
+      "symbol": "THETA-USDT"
+    },
+    {
+      "symbol": "QNT-USDT"
+    },
+    {
+      "symbol": "BAT-USDT"
+    },
+    {
+      "symbol": "DOGE-USDT"
+    },
+    {
+      "symbol": "DOGE-USDC"
+    },
+    {
+      "symbol": "DAO-USDT"
+    },
+    {
+      "symbol": "STRONG-USDT"
+    },
+    {
+      "symbol": "TRIAS-USDT"
+    },
+    {
+      "symbol": "TRIAS-BTC"
+    },
+    {
+      "symbol": "DOGE-BTC"
+    },
+    {
+      "symbol": "MITX-BTC"
+    },
+    {
+      "symbol": "MITX-USDT"
+    },
+    {
+      "symbol": "CAKE-USDT"
+    },
+    {
+      "symbol": "ORAI-USDT"
+    },
+    {
+      "symbol": "ZEE-USDT"
+    },
+    {
+      "symbol": "LTX-USDT"
+    },
+    {
+      "symbol": "LTX-BTC"
+    },
+    {
+      "symbol": "MASK-USDT"
+    },
+    {
+      "symbol": "KLV-TRX"
+    },
+    {
+      "symbol": "IDEA-USDT"
+    },
+    {
+      "symbol": "PHA-USDT"
+    },
+    {
+      "symbol": "PHA-ETH"
+    },
+    {
+      "symbol": "BCH-KCS"
+    },
+    {
+      "symbol": "SRK-USDT"
+    },
+    {
+      "symbol": "SRK-BTC"
+    },
+    {
+      "symbol": "ADA-KCS"
+    },
+    {
+      "symbol": "HTR-BTC"
+    },
+    {
+      "symbol": "BCHSV-KCS"
+    },
+    {
+      "symbol": "DOT-KCS"
+    },
+    {
+      "symbol": "LINK-KCS"
+    },
+    {
+      "symbol": "MIR-KCS"
+    },
+    {
+      "symbol": "BNB-KCS"
+    },
+    {
+      "symbol": "XLM-KCS"
+    },
+    {
+      "symbol": "VET-KCS"
+    },
+    {
+      "symbol": "SWINGBY-USDT"
+    },
+    {
+      "symbol": "SWINGBY-BTC"
+    },
+    {
+      "symbol": "XHV-BTC"
+    },
+    {
+      "symbol": "DASH-KCS"
+    },
+    {
+      "symbol": "UNI-KCS"
+    },
+    {
+      "symbol": "AAVE-KCS"
+    },
+    {
+      "symbol": "DOGE-KCS"
+    },
+    {
+      "symbol": "ZEC-KCS"
+    },
+    {
+      "symbol": "XTZ-KCS"
+    },
+    {
+      "symbol": "GRT-KCS"
+    },
+    {
+      "symbol": "ALGO-KCS"
+    },
+    {
+      "symbol": "EWT-KCS"
+    },
+    {
+      "symbol": "GAS-USDT"
+    },
+    {
+      "symbol": "AVAX-USDT"
+    },
+    {
+      "symbol": "AVAX-BTC"
+    },
+    {
+      "symbol": "KRL-BTC"
+    },
+    {
+      "symbol": "KRL-USDT"
+    },
+    {
+      "symbol": "POLK-USDT"
+    },
+    {
+      "symbol": "POLK-BTC"
+    },
+    {
+      "symbol": "ENJ-USDT"
+    },
+    {
+      "symbol": "MANA-USDT"
+    },
+    {
+      "symbol": "RNDR-USDT"
+    },
+    {
+      "symbol": "RNDR-BTC"
+    },
+    {
+      "symbol": "RLY-USDT"
+    },
+    {
+      "symbol": "ANC-USDT"
+    },
+    {
+      "symbol": "SKEY-USDT"
+    },
+    {
+      "symbol": "LAYER-USDT"
+    },
+    {
+      "symbol": "TARA-USDT"
+    },
+    {
+      "symbol": "TARA-ETH"
+    },
+    {
+      "symbol": "IOST-USDT"
+    },
+    {
+      "symbol": "DYP-USDT"
+    },
+    {
+      "symbol": "DYP-ETH"
+    },
+    {
+      "symbol": "XYM-USDT"
+    },
+    {
+      "symbol": "XYM-BTC"
+    },
+    {
+      "symbol": "PCX-USDT"
+    },
+    {
+      "symbol": "PCX-BTC"
+    },
+    {
+      "symbol": "ORBS-USDT"
+    },
+    {
+      "symbol": "ORBS-BTC"
+    },
+    {
+      "symbol": "BTC3L-USDT"
+    },
+    {
+      "symbol": "BTC3S-USDT"
+    },
+    {
+      "symbol": "ETH3L-USDT"
+    },
+    {
+      "symbol": "ETH3S-USDT"
+    },
+    {
+      "symbol": "ANKR-USDT"
+    },
+    {
+      "symbol": "DSLA-USDT"
+    },
+    {
+      "symbol": "DSLA-BTC"
+    },
+    {
+      "symbol": "SAND-USDT"
+    },
+    {
+      "symbol": "VAI-USDT"
+    },
+    {
+      "symbol": "XCUR-USDT"
+    },
+    {
+      "symbol": "XCUR-BTC"
+    },
+    {
+      "symbol": "FLUX-USDT"
+    },
+    {
+      "symbol": "OMG-USDT"
+    },
+    {
+      "symbol": "ZIL-USDT"
+    },
+    {
+      "symbol": "DODO-USDT"
+    },
+    {
+      "symbol": "MAN-USDT"
+    },
+    {
+      "symbol": "BAX-USDT"
+    },
+    {
+      "symbol": "BOSON-USDT"
+    },
+    {
+      "symbol": "BOSON-ETH"
+    },
+    {
+      "symbol": "PUNDIX-USDT"
+    },
+    {
+      "symbol": "PUNDIX-BTC"
+    },
+    {
+      "symbol": "WAX-USDT"
+    },
+    {
+      "symbol": "HT-USDT"
+    },
+    {
+      "symbol": "PDEX-USDT"
+    },
+    {
+      "symbol": "LABS-USDT"
+    },
+    {
+      "symbol": "LABS-ETH"
+    },
+    {
+      "symbol": "GMB-USDT"
+    },
+    {
+      "symbol": "PHNX-USDT"
+    },
+    {
+      "symbol": "PHNX-BTC"
+    },
+    {
+      "symbol": "HAI-USDT"
+    },
+    {
+      "symbol": "EQZ-USDT"
+    },
+    {
+      "symbol": "FORTH-USDT"
+    },
+    {
+      "symbol": "CGG-USDT"
+    },
+    {
+      "symbol": "UBX-USDT"
+    },
+    {
+      "symbol": "GHX-USDT"
+    },
+    {
+      "symbol": "STND-USDT"
+    },
+    {
+      "symbol": "STND-ETH"
+    },
+    {
+      "symbol": "TOWER-USDT"
+    },
+    {
+      "symbol": "TOWER-BTC"
+    },
+    {
+      "symbol": "ACE-USDT"
+    },
+    {
+      "symbol": "LOCG-USDT"
+    },
+    {
+      "symbol": "CARD-USDT"
+    },
+    {
+      "symbol": "FLY-USDT"
+    },
+    {
+      "symbol": "CWS-USDT"
+    },
+    {
+      "symbol": "XDC-USDT"
+    },
+    {
+      "symbol": "XDC-ETH"
+    },
+    {
+      "symbol": "STRK-BTC"
+    },
+    {
+      "symbol": "STRK-ETH"
+    },
+    {
+      "symbol": "SHIB-USDT"
+    },
+    {
+      "symbol": "POLX-USDT"
+    },
+    {
+      "symbol": "KDA-USDT"
+    },
+    {
+      "symbol": "KDA-BTC"
+    },
+    {
+      "symbol": "ICP-USDT"
+    },
+    {
+      "symbol": "ICP-BTC"
+    },
+    {
+      "symbol": "STC-USDT"
+    },
+    {
+      "symbol": "STC-BTC"
+    },
+    {
+      "symbol": "GOVI-USDT"
+    },
+    {
+      "symbol": "GOVI-BTC"
+    },
+    {
+      "symbol": "FKX-USDT"
+    },
+    {
+      "symbol": "CELO-USDT"
+    },
+    {
+      "symbol": "CELO-BTC"
+    },
+    {
+      "symbol": "CUSD-USDT"
+    },
+    {
+      "symbol": "CUSD-BTC"
+    },
+    {
+      "symbol": "MATIC-USDT"
+    },
+    {
+      "symbol": "MATIC-BTC"
+    },
+    {
+      "symbol": "ELA-USDT"
+    },
+    {
+      "symbol": "CRPT-USDT"
+    },
+    {
+      "symbol": "OPCT-USDT"
+    },
+    {
+      "symbol": "OGN-USDT"
+    },
+    {
+      "symbol": "OGN-BTC"
+    },
+    {
+      "symbol": "OUSD-USDT"
+    },
+    {
+      "symbol": "OUSD-BTC"
+    },
+    {
+      "symbol": "TLOS-USDT"
+    },
+    {
+      "symbol": "TLOS-BTC"
+    },
+    {
+      "symbol": "GLQ-USDT"
+    },
+    {
+      "symbol": "GLQ-BTC"
+    },
+    {
+      "symbol": "MXC-USDT"
+    },
+    {
+      "symbol": "ERSDL-USDT"
+    },
+    {
+      "symbol": "HOTCROSS-USDT"
+    },
+    {
+      "symbol": "ADA3L-USDT"
+    },
+    {
+      "symbol": "ADA3S-USDT"
+    },
+    {
+      "symbol": "HYVE-USDT"
+    },
+    {
+      "symbol": "HYVE-BTC"
+    },
+    {
+      "symbol": "DAPPX-USDT"
+    },
+    {
+      "symbol": "KONO-USDT"
+    },
+    {
+      "symbol": "PRQ-USDT"
+    },
+    {
+      "symbol": "MAHA-USDT"
+    },
+    {
+      "symbol": "MAHA-BTC"
+    },
+    {
+      "symbol": "FEAR-USDT"
+    },
+    {
+      "symbol": "PYR-USDT"
+    },
+    {
+      "symbol": "PYR-BTC"
+    },
+    {
+      "symbol": "PROM-USDT"
+    },
+    {
+      "symbol": "PROM-BTC"
+    },
+    {
+      "symbol": "GLCH-USDT"
+    },
+    {
+      "symbol": "UNO-USDT"
+    },
+    {
+      "symbol": "ALBT-USDT"
+    },
+    {
+      "symbol": "ALBT-ETH"
+    },
+    {
+      "symbol": "XCAD-USDT"
+    },
+    {
+      "symbol": "EOS3L-USDT"
+    },
+    {
+      "symbol": "EOS3S-USDT"
+    },
+    {
+      "symbol": "BCH3L-USDT"
+    },
+    {
+      "symbol": "BCH3S-USDT"
+    },
+    {
+      "symbol": "ELON-USDT"
+    },
+    {
+      "symbol": "APL-USDT"
+    },
+    {
+      "symbol": "VEED-USDT"
+    },
+    {
+      "symbol": "VEED-BTC"
+    },
+    {
+      "symbol": "DIVI-USDT"
+    },
+    {
+      "symbol": "PDEX-BTC"
+    },
+    {
+      "symbol": "POLS-USDT"
+    },
+    {
+      "symbol": "POLS-BTC"
+    },
+    {
+      "symbol": "LPOOL-USDT"
+    },
+    {
+      "symbol": "LPOOL-BTC"
+    },
+    {
+      "symbol": "LSS-USDT"
+    },
+    {
+      "symbol": "VET3L-USDT"
+    },
+    {
+      "symbol": "VET3S-USDT"
+    },
+    {
+      "symbol": "LTC3L-USDT"
+    },
+    {
+      "symbol": "LTC3S-USDT"
+    },
+    {
+      "symbol": "ABBC-USDT"
+    },
+    {
+      "symbol": "ABBC-BTC"
+    },
+    {
+      "symbol": "KOK-USDT"
+    },
+    {
+      "symbol": "ROSN-USDT"
+    },
+    {
+      "symbol": "ZCX-USDT"
+    },
+    {
+      "symbol": "ZCX-BTC"
+    },
+    {
+      "symbol": "NORD-USDT"
+    },
+    {
+      "symbol": "GMEE-USDT"
+    },
+    {
+      "symbol": "SFUND-USDT"
+    },
+    {
+      "symbol": "XAVA-USDT"
+    },
+    {
+      "symbol": "AI-USDT"
+    },
+    {
+      "symbol": "IOI-USDT"
+    },
+    {
+      "symbol": "NFT-USDT"
+    },
+    {
+      "symbol": "NFT-TRX"
+    },
+    {
+      "symbol": "MNST-USDT"
+    },
+    {
+      "symbol": "MEM-USDT"
+    },
+    {
+      "symbol": "AGIX-USDT"
+    },
+    {
+      "symbol": "AGIX-BTC"
+    },
+    {
+      "symbol": "AGIX-ETH"
+    },
+    {
+      "symbol": "CQT-USDT"
+    },
+    {
+      "symbol": "AIOZ-USDT"
+    },
+    {
+      "symbol": "MARSH-USDT"
+    },
+    {
+      "symbol": "HAPI-USDT"
+    },
+    {
+      "symbol": "MODEFI-USDT"
+    },
+    {
+      "symbol": "MODEFI-BTC"
+    },
+    {
+      "symbol": "YFDAI-USDT"
+    },
+    {
+      "symbol": "YFDAI-BTC"
+    },
+    {
+      "symbol": "GENS-USDT"
+    },
+    {
+      "symbol": "FORM-USDT"
+    },
+    {
+      "symbol": "ARRR-USDT"
+    },
+    {
+      "symbol": "ARRR-BTC"
+    },
+    {
+      "symbol": "TOKO-KCS"
+    },
+    {
+      "symbol": "EXRD-USDT"
+    },
+    {
+      "symbol": "NGM-USDT"
+    },
+    {
+      "symbol": "LPT-USDT"
+    },
+    {
+      "symbol": "ASD-USDT"
+    },
+    {
+      "symbol": "BOND-USDT"
+    },
+    {
+      "symbol": "HAI-BTC"
+    },
+    {
+      "symbol": "SOUL-USDT"
+    },
+    {
+      "symbol": "2CRZ-USDT"
+    },
+    {
+      "symbol": "NEAR-USDT"
+    },
+    {
+      "symbol": "NEAR-BTC"
+    },
+    {
+      "symbol": "DFYN-USDT"
+    },
+    {
+      "symbol": "OOE-USDT"
+    },
+    {
+      "symbol": "CFG-USDT"
+    },
+    {
+      "symbol": "CFG-BTC"
+    },
+    {
+      "symbol": "AXS-USDT"
+    },
+    {
+      "symbol": "CLV-USDT"
+    },
+    {
+      "symbol": "ROUTE-USDT"
+    },
+    {
+      "symbol": "KAR-USDT"
+    },
+    {
+      "symbol": "EFX-USDT"
+    },
+    {
+      "symbol": "XDC-BTC"
+    },
+    {
+      "symbol": "SHFT-USDT"
+    },
+    {
+      "symbol": "PMON-USDT"
+    },
+    {
+      "symbol": "DPET-USDT"
+    },
+    {
+      "symbol": "ERG-USDT"
+    },
+    {
+      "symbol": "ERG-BTC"
+    },
+    {
+      "symbol": "SOL-USDT"
+    },
+    {
+      "symbol": "SLP-USDT"
+    },
+    {
+      "symbol": "LITH-USDT"
+    },
+    {
+      "symbol": "LITH-ETH"
+    },
+    {
+      "symbol": "XCH-USDT"
+    },
+    {
+      "symbol": "HAKA-USDT"
+    },
+    {
+      "symbol": "LAYER-BTC"
+    },
+    {
+      "symbol": "MTL-USDT"
+    },
+    {
+      "symbol": "MTL-BTC"
+    },
+    {
+      "symbol": "IOTX-USDT"
+    },
+    {
+      "symbol": "GALAX-USDT"
+    },
+    {
+      "symbol": "REQ-USDT"
+    },
+    {
+      "symbol": "TXA-USDT"
+    },
+    {
+      "symbol": "TXA-USDC"
+    },
+    {
+      "symbol": "CIRUS-USDT"
+    },
+    {
+      "symbol": "QI-USDT"
+    },
+    {
+      "symbol": "QI-BTC"
+    },
+    {
+      "symbol": "ODDZ-USDT"
+    },
+    {
+      "symbol": "PNT-USDT"
+    },
+    {
+      "symbol": "PNT-BTC"
+    },
+    {
+      "symbol": "XPR-USDT"
+    },
+    {
+      "symbol": "XPR-BTC"
+    },
+    {
+      "symbol": "TRIBE-USDT"
+    },
+    {
+      "symbol": "SHFT-BTC"
+    },
+    {
+      "symbol": "MOVR-USDT"
+    },
+    {
+      "symbol": "MOVR-ETH"
+    },
+    {
+      "symbol": "WOO-USDT"
+    },
+    {
+      "symbol": "WILD-USDT"
+    },
+    {
+      "symbol": "QRDO-USDT"
+    },
+    {
+      "symbol": "QRDO-ETH"
+    },
+    {
+      "symbol": "MAKI-USDT"
+    },
+    {
+      "symbol": "MAKI-BTC"
+    },
+    {
+      "symbol": "OXT-USDT"
+    },
+    {
+      "symbol": "OXT-BTC"
+    },
+    {
+      "symbol": "OXT-ETH"
+    },
+    {
+      "symbol": "BAL-USDT"
+    },
+    {
+      "symbol": "BAL-BTC"
+    },
+    {
+      "symbol": "BAL-ETH"
+    },
+    {
+      "symbol": "STORJ-USDT"
+    },
+    {
+      "symbol": "STORJ-BTC"
+    },
+    {
+      "symbol": "STORJ-ETH"
+    },
+    {
+      "symbol": "YGG-USDT"
+    },
+    {
+      "symbol": "NDAU-USDT"
+    },
+    {
+      "symbol": "SDAO-USDT"
+    },
+    {
+      "symbol": "SDAO-ETH"
+    },
+    {
+      "symbol": "XRP3L-USDT"
+    },
+    {
+      "symbol": "XRP3S-USDT"
+    },
+    {
+      "symbol": "SKL-USDT"
+    },
+    {
+      "symbol": "SKL-BTC"
+    },
+    {
+      "symbol": "NMR-USDT"
+    },
+    {
+      "symbol": "NMR-BTC"
+    },
+    {
+      "symbol": "IXS-USDT"
+    },
+    {
+      "symbol": "TRB-USDT"
+    },
+    {
+      "symbol": "TRB-BTC"
+    },
+    {
+      "symbol": "DYDX-USDT"
+    },
+    {
+      "symbol": "XYO-USDT"
+    },
+    {
+      "symbol": "GTC-USDT"
+    },
+    {
+      "symbol": "GTC-BTC"
+    },
+    {
+      "symbol": "EQX-USDT"
+    },
+    {
+      "symbol": "EQX-BTC"
+    },
+    {
+      "symbol": "RLC-USDT"
+    },
+    {
+      "symbol": "RLC-BTC"
+    },
+    {
+      "symbol": "XPRT-USDT"
+    },
+    {
+      "symbol": "EGLD-USDT"
+    },
+    {
+      "symbol": "EGLD-BTC"
+    },
+    {
+      "symbol": "HBAR-USDT"
+    },
+    {
+      "symbol": "HBAR-BTC"
+    },
+    {
+      "symbol": "DOGE3L-USDT"
+    },
+    {
+      "symbol": "DOGE3S-USDT"
+    },
+    {
+      "symbol": "FLOW-USDT"
+    },
+    {
+      "symbol": "FLOW-BTC"
+    },
+    {
+      "symbol": "NKN-USDT"
+    },
+    {
+      "symbol": "NKN-BTC"
+    },
+    {
+      "symbol": "PBX-USDT"
+    },
+    {
+      "symbol": "SOL3L-USDT"
+    },
+    {
+      "symbol": "SOL3S-USDT"
+    },
+    {
+      "symbol": "MLN-USDT"
+    },
+    {
+      "symbol": "MLN-BTC"
+    },
+    {
+      "symbol": "XNL-USDT"
+    },
+    {
+      "symbol": "SOLVE-USDT"
+    },
+    {
+      "symbol": "DMTR-USDT"
+    },
+    {
+      "symbol": "LINK3L-USDT"
+    },
+    {
+      "symbol": "LINK3S-USDT"
+    },
+    {
+      "symbol": "DOT3L-USDT"
+    },
+    {
+      "symbol": "DOT3S-USDT"
+    },
+    {
+      "symbol": "CTSI-USDT"
+    },
+    {
+      "symbol": "CTSI-BTC"
+    },
+    {
+      "symbol": "ALICE-USDT"
+    },
+    {
+      "symbol": "ALICE-BTC"
+    },
+    {
+      "symbol": "ALICE-ETH"
+    },
+    {
+      "symbol": "OPUL-USDT"
+    },
+    {
+      "symbol": "ILV-USDT"
+    },
+    {
+      "symbol": "BAND-USDT"
+    },
+    {
+      "symbol": "BAND-BTC"
+    },
+    {
+      "symbol": "FTT-USDT"
+    },
+    {
+      "symbol": "FTT-BTC"
+    },
+    {
+      "symbol": "DVPN-USDT"
+    },
+    {
+      "symbol": "SKU-USDT"
+    },
+    {
+      "symbol": "SKU-BTC"
+    },
+    {
+      "symbol": "EDG-USDT"
+    },
+    {
+      "symbol": "SLIM-USDT"
+    },
+    {
+      "symbol": "TLM-USDT"
+    },
+    {
+      "symbol": "TLM-BTC"
+    },
+    {
+      "symbol": "TLM-ETH"
+    },
+    {
+      "symbol": "DEXE-USDT"
+    },
+    {
+      "symbol": "DEXE-BTC"
+    },
+    {
+      "symbol": "DEXE-ETH"
+    },
+    {
+      "symbol": "MATTER-USDT"
+    },
+    {
+      "symbol": "CUDOS-BTC"
+    },
+    {
+      "symbol": "RUNE-USDT"
+    },
+    {
+      "symbol": "RUNE-BTC"
+    },
+    {
+      "symbol": "RMRK-USDT"
+    },
+    {
+      "symbol": "C98-USDT"
+    },
+    {
+      "symbol": "BLOK-USDT"
+    },
+    {
+      "symbol": "SOLR-USDT"
+    },
+    {
+      "symbol": "ATOM3L-USDT"
+    },
+    {
+      "symbol": "ATOM3S-USDT"
+    },
+    {
+      "symbol": "UNI3L-USDT"
+    },
+    {
+      "symbol": "UNI3S-USDT"
+    },
+    {
+      "symbol": "WSIENNA-USDT"
+    },
+    {
+      "symbol": "PUSH-USDT"
+    },
+    {
+      "symbol": "PUSH-BTC"
+    },
+    {
+      "symbol": "FORM-ETH"
+    },
+    {
+      "symbol": "NTVRK-USDT"
+    },
+    {
+      "symbol": "NTVRK-USDC"
+    },
+    {
+      "symbol": "AXS3L-USDT"
+    },
+    {
+      "symbol": "AXS3S-USDT"
+    },
+    {
+      "symbol": "FTM3L-USDT"
+    },
+    {
+      "symbol": "FTM3S-USDT"
+    },
+    {
+      "symbol": "FLAME-USDT"
+    },
+    {
+      "symbol": "AGLD-USDT"
+    },
+    {
+      "symbol": "NAKA-USDT"
+    },
+    {
+      "symbol": "YLD-USDT"
+    },
+    {
+      "symbol": "TONE-USDT"
+    },
+    {
+      "symbol": "REEF-USDT"
+    },
+    {
+      "symbol": "REEF-BTC"
+    },
+    {
+      "symbol": "TIDAL-USDT"
+    },
+    {
+      "symbol": "TVK-USDT"
+    },
+    {
+      "symbol": "TVK-BTC"
+    },
+    {
+      "symbol": "INJ-USDT"
+    },
+    {
+      "symbol": "INJ-BTC"
+    },
+    {
+      "symbol": "BNB3L-USDT"
+    },
+    {
+      "symbol": "BNB3S-USDT"
+    },
+    {
+      "symbol": "MATIC3L-USDT"
+    },
+    {
+      "symbol": "MATIC3S-USDT"
+    },
+    {
+      "symbol": "VEGA-USDT"
+    },
+    {
+      "symbol": "VEGA-ETH"
+    },
+    {
+      "symbol": "ALPHA-USDT"
+    },
+    {
+      "symbol": "ALPHA-BTC"
+    },
+    {
+      "symbol": "UNO-BTC"
+    },
+    {
+      "symbol": "ZKT-USDT"
+    },
+    {
+      "symbol": "AR-USDT"
+    },
+    {
+      "symbol": "AR-BTC"
+    },
+    {
+      "symbol": "JASMY-USDT"
+    },
+    {
+      "symbol": "PERP-USDT"
+    },
+    {
+      "symbol": "PERP-BTC"
+    },
+    {
+      "symbol": "SCLP-USDT"
+    },
+    {
+      "symbol": "SCLP-BTC"
+    },
+    {
+      "symbol": "SUPER-USDT"
+    },
+    {
+      "symbol": "SUPER-BTC"
+    },
+    {
+      "symbol": "CPOOL-USDT"
+    },
+    {
+      "symbol": "HERO-USDT"
+    },
+    {
+      "symbol": "BASIC-USDT"
+    },
+    {
+      "symbol": "XED-USDT"
+    },
+    {
+      "symbol": "XED-BTC"
+    },
+    {
+      "symbol": "AURY-USDT"
+    },
+    {
+      "symbol": "SWASH-USDT"
+    },
+    {
+      "symbol": "LTO-USDT"
+    },
+    {
+      "symbol": "LTO-BTC"
+    },
+    {
+      "symbol": "BUX-USDT"
+    },
+    {
+      "symbol": "MTRG-USDT"
+    },
+    {
+      "symbol": "DREAMS-USDT"
+    },
+    {
+      "symbol": "SHIB-DOGE"
+    },
+    {
+      "symbol": "QUICK-USDT"
+    },
+    {
+      "symbol": "QUICK-BTC"
+    },
+    {
+      "symbol": "TRU-USDT"
+    },
+    {
+      "symbol": "TRU-BTC"
+    },
+    {
+      "symbol": "WRX-USDT"
+    },
+    {
+      "symbol": "WRX-BTC"
+    },
+    {
+      "symbol": "SUSHI3L-USDT"
+    },
+    {
+      "symbol": "SUSHI3S-USDT"
+    },
+    {
+      "symbol": "NEAR3L-USDT"
+    },
+    {
+      "symbol": "NEAR3S-USDT"
+    },
+    {
+      "symbol": "DATA-USDT"
+    },
+    {
+      "symbol": "DATA-BTC"
+    },
+    {
+      "symbol": "NORD-BTC"
+    },
+    {
+      "symbol": "ISP-USDT"
+    },
+    {
+      "symbol": "CERE-USDT"
+    },
+    {
+      "symbol": "SHILL-USDT"
+    },
+    {
+      "symbol": "HEGIC-USDT"
+    },
+    {
+      "symbol": "HEGIC-BTC"
+    },
+    {
+      "symbol": "ERN-USDT"
+    },
+    {
+      "symbol": "ERN-BTC"
+    },
+    {
+      "symbol": "FTG-USDT"
+    },
+    {
+      "symbol": "PAXG-USDT"
+    },
+    {
+      "symbol": "PAXG-BTC"
+    },
+    {
+      "symbol": "AUDIO-USDT"
+    },
+    {
+      "symbol": "AUDIO-BTC"
+    },
+    {
+      "symbol": "ENS-USDT"
+    },
+    {
+      "symbol": "AAVE3L-USDT"
+    },
+    {
+      "symbol": "AAVE3S-USDT"
+    },
+    {
+      "symbol": "SAND3L-USDT"
+    },
+    {
+      "symbol": "SAND3S-USDT"
+    },
+    {
+      "symbol": "XTM-USDT"
+    },
+    {
+      "symbol": "MNW-USDT"
+    },
+    {
+      "symbol": "FXS-USDT"
+    },
+    {
+      "symbol": "FXS-BTC"
+    },
+    {
+      "symbol": "ATA-USDT"
+    },
+    {
+      "symbol": "ATA-BTC"
+    },
+    {
+      "symbol": "VXV-USDT"
+    },
+    {
+      "symbol": "LRC-BTC"
+    },
+    {
+      "symbol": "LRC-ETH"
+    },
+    {
+      "symbol": "DPR-USDT"
+    },
+    {
+      "symbol": "CWAR-USDT"
+    },
+    {
+      "symbol": "CWAR-BTC"
+    },
+    {
+      "symbol": "FLUX-BTC"
+    },
+    {
+      "symbol": "EDG-BTC"
+    },
+    {
+      "symbol": "PBR-USDT"
+    },
+    {
+      "symbol": "ANT-USDT"
+    },
+    {
+      "symbol": "ANT-BTC"
+    },
+    {
+      "symbol": "COV-USDT"
+    },
+    {
+      "symbol": "SWP-USDT"
+    },
+    {
+      "symbol": "TWT-USDT"
+    },
+    {
+      "symbol": "TWT-BTC"
+    },
+    {
+      "symbol": "OM-USDT"
+    },
+    {
+      "symbol": "OM-BTC"
+    },
+    {
+      "symbol": "ADX-USDT"
+    },
+    {
+      "symbol": "AVAX3L-USDT"
+    },
+    {
+      "symbol": "AVAX3S-USDT"
+    },
+    {
+      "symbol": "MANA3L-USDT"
+    },
+    {
+      "symbol": "MANA3S-USDT"
+    },
+    {
+      "symbol": "GLM-USDT"
+    },
+    {
+      "symbol": "GLM-BTC"
+    },
+    {
+      "symbol": "NUM-USDT"
+    },
+    {
+      "symbol": "VLX-USDT"
+    },
+    {
+      "symbol": "VLX-BTC"
+    },
+    {
+      "symbol": "TRADE-USDT"
+    },
+    {
+      "symbol": "TRADE-BTC"
+    },
+    {
+      "symbol": "1EARTH-USDT"
+    },
+    {
+      "symbol": "MONI-USDT"
+    },
+    {
+      "symbol": "LIKE-USDT"
+    },
+    {
+      "symbol": "MFT-USDT"
+    },
+    {
+      "symbol": "MFT-BTC"
+    },
+    {
+      "symbol": "LIT-USDT"
+    },
+    {
+      "symbol": "LIT-BTC"
+    },
+    {
+      "symbol": "KAVA-USDT"
+    },
+    {
+      "symbol": "SFP-USDT"
+    },
+    {
+      "symbol": "SFP-BTC"
+    },
+    {
+      "symbol": "BURGER-USDT"
+    },
+    {
+      "symbol": "BURGER-BTC"
+    },
+    {
+      "symbol": "ILA-USDT"
+    },
+    {
+      "symbol": "CREAM-USDT"
+    },
+    {
+      "symbol": "CREAM-BTC"
+    },
+    {
+      "symbol": "RSR-USDT"
+    },
+    {
+      "symbol": "RSR-BTC"
+    },
+    {
+      "symbol": "BUY-BTC"
+    },
+    {
+      "symbol": "IMX-USDT"
+    },
+    {
+      "symbol": "GODS-USDT"
+    },
+    {
+      "symbol": "KMA-USDT"
+    },
+    {
+      "symbol": "SRM-USDT"
+    },
+    {
+      "symbol": "SRM-BTC"
+    },
+    {
+      "symbol": "POLC-USDT"
+    },
+    {
+      "symbol": "XTAG-USDT"
+    },
+    {
+      "symbol": "MNET-USDT"
+    },
+    {
+      "symbol": "NGC-USDT"
+    },
+    {
+      "symbol": "HARD-USDT"
+    },
+    {
+      "symbol": "GALAX3L-USDT"
+    },
+    {
+      "symbol": "GALAX3S-USDT"
+    },
+    {
+      "symbol": "UNIC-USDT"
+    },
+    {
+      "symbol": "POND-USDT"
+    },
+    {
+      "symbol": "POND-BTC"
+    },
+    {
+      "symbol": "VR-USDT"
+    },
+    {
+      "symbol": "EPIK-USDT"
+    },
+    {
+      "symbol": "NGL-USDT"
+    },
+    {
+      "symbol": "NGL-BTC"
+    },
+    {
+      "symbol": "KDON-USDT"
+    },
+    {
+      "symbol": "PEL-USDT"
+    },
+    {
+      "symbol": "CIRUS-ETH"
+    },
+    {
+      "symbol": "LINA-USDT"
+    },
+    {
+      "symbol": "LINA-BTC"
+    },
+    {
+      "symbol": "KLAY-USDT"
+    },
+    {
+      "symbol": "KLAY-BTC"
+    },
+    {
+      "symbol": "CREDI-USDT"
+    },
+    {
+      "symbol": "TRVL-USDT"
+    },
+    {
+      "symbol": "LACE-USDT"
+    },
+    {
+      "symbol": "LACE-ETH"
+    },
+    {
+      "symbol": "ARKER-USDT"
+    },
+    {
+      "symbol": "BONDLY-USDT"
+    },
+    {
+      "symbol": "BONDLY-ETH"
+    },
+    {
+      "symbol": "XEC-USDT"
+    },
+    {
+      "symbol": "HEART-USDT"
+    },
+    {
+      "symbol": "HEART-BTC"
+    },
+    {
+      "symbol": "UNB-USDT"
+    },
+    {
+      "symbol": "GAFI-USDT"
+    },
+    {
+      "symbol": "KOL-USDT"
+    },
+    {
+      "symbol": "KOL-ETH"
+    },
+    {
+      "symbol": "H3RO3S-USDT"
+    },
+    {
+      "symbol": "FALCONS-USDT"
+    },
+    {
+      "symbol": "UFO-USDT"
+    },
+    {
+      "symbol": "CHMB-USDT"
+    },
+    {
+      "symbol": "GEEQ-USDT"
+    },
+    {
+      "symbol": "ORC-USDT"
+    },
+    {
+      "symbol": "RACEFI-USDT"
+    },
+    {
+      "symbol": "PEOPLE-USDT"
+    },
+    {
+      "symbol": "ADS-USDT"
+    },
+    {
+      "symbol": "ADS-BTC"
+    },
+    {
+      "symbol": "OCEAN-USDT"
+    },
+    {
+      "symbol": "SOS-USDT"
+    },
+    {
+      "symbol": "WHALE-USDT"
+    },
+    {
+      "symbol": "TIME-USDT"
+    },
+    {
+      "symbol": "CWEB-USDT"
+    },
+    {
+      "symbol": "IOTA-USDT"
+    },
+    {
+      "symbol": "IOTA-BTC"
+    },
+    {
+      "symbol": "HNT-USDT"
+    },
+    {
+      "symbol": "HNT-BTC"
+    },
+    {
+      "symbol": "GGG-USDT"
+    },
+    {
+      "symbol": "REVU-USDT"
+    },
+    {
+      "symbol": "CLH-USDT"
+    },
+    {
+      "symbol": "PLGR-USDT"
+    },
+    {
+      "symbol": "GLMR-USDT"
+    },
+    {
+      "symbol": "GLMR-BTC"
+    },
+    {
+      "symbol": "LOVE-USDT"
+    },
+    {
+      "symbol": "CTC-USDT"
+    },
+    {
+      "symbol": "CTC-BTC"
+    },
+    {
+      "symbol": "GARI-USDT"
+    },
+    {
+      "symbol": "FRR-USDT"
+    },
+    {
+      "symbol": "ASTR-USDT"
+    },
+    {
+      "symbol": "ASTR-BTC"
+    },
+    {
+      "symbol": "ERTHA-USDT"
+    },
+    {
+      "symbol": "FCON-USDT"
+    },
+    {
+      "symbol": "ACA-USDT"
+    },
+    {
+      "symbol": "ACA-BTC"
+    },
+    {
+      "symbol": "MTS-USDT"
+    },
+    {
+      "symbol": "ROAR-USDT"
+    },
+    {
+      "symbol": "HBB-USDT"
+    },
+    {
+      "symbol": "CVX-USDT"
+    },
+    {
+      "symbol": "AMP-USDT"
+    },
+    {
+      "symbol": "ACT-USDT"
+    },
+    {
+      "symbol": "MJT-USDT"
+    },
+    {
+      "symbol": "MJT-KCS"
+    },
+    {
+      "symbol": "SHX-USDT"
+    },
+    {
+      "symbol": "SHX-BTC"
+    },
+    {
+      "symbol": "STARLY-USDT"
+    },
+    {
+      "symbol": "ONSTON-USDT"
+    },
+    {
+      "symbol": "RANKER-USDT"
+    },
+    {
+      "symbol": "WMT-USDT"
+    },
+    {
+      "symbol": "XNO-USDT"
+    },
+    {
+      "symbol": "XNO-BTC"
+    },
+    {
+      "symbol": "MARS4-USDT"
+    },
+    {
+      "symbol": "TFUEL-USDT"
+    },
+    {
+      "symbol": "TFUEL-BTC"
+    },
+    {
+      "symbol": "METIS-USDT"
+    },
+    {
+      "symbol": "LAVAX-USDT"
+    },
+    {
+      "symbol": "WAL-USDT"
+    },
+    {
+      "symbol": "BULL-USDT"
+    },
+    {
+      "symbol": "SON-USDT"
+    },
+    {
+      "symbol": "MELOS-USDT"
+    },
+    {
+      "symbol": "APE-USDT"
+    },
+    {
+      "symbol": "GMT-USDT"
+    },
+    {
+      "symbol": "BICO-USDT"
+    },
+    {
+      "symbol": "STG-USDT"
+    },
+    {
+      "symbol": "LMR-USDT"
+    },
+    {
+      "symbol": "LMR-BTC"
+    },
+    {
+      "symbol": "LOKA-USDT"
+    },
+    {
+      "symbol": "URUS-USDT"
+    },
+    {
+      "symbol": "JAM-USDT"
+    },
+    {
+      "symbol": "JAM-ETH"
+    },
+    {
+      "symbol": "BNC-USDT"
+    },
+    {
+      "symbol": "LBP-USDT"
+    },
+    {
+      "symbol": "CFX-USDT"
+    },
+    {
+      "symbol": "LOOKS-USDT"
+    },
+    {
+      "symbol": "XCN-USDT"
+    },
+    {
+      "symbol": "XCN-BTC"
+    },
+    {
+      "symbol": "TITAN-USDT"
+    },
+    {
+      "symbol": "INDI-USDT"
+    },
+    {
+      "symbol": "UPO-USDT"
+    },
+    {
+      "symbol": "SLCL-USDT"
+    },
+    {
+      "symbol": "CEEK-USDT"
+    },
+    {
+      "symbol": "NHCT-USDT"
+    },
+    {
+      "symbol": "ARNM-USDT"
+    },
+    {
+      "symbol": "FRA-USDT"
+    },
+    {
+      "symbol": "VISION-USDT"
+    },
+    {
+      "symbol": "COCOS-USDT"
+    },
+    {
+      "symbol": "ALPINE-USDT"
+    },
+    {
+      "symbol": "BNX-USDT"
+    },
+    {
+      "symbol": "ZBC-USDT"
+    },
+    {
+      "symbol": "WOOP-USDT"
+    },
+    {
+      "symbol": "T-USDT"
+    },
+    {
+      "symbol": "NYM-USDT"
+    },
+    {
+      "symbol": "VOXEL-USDT"
+    },
+    {
+      "symbol": "VOXEL-ETH"
+    },
+    {
+      "symbol": "PSTAKE-USDT"
+    },
+    {
+      "symbol": "SPA-USDT"
+    },
+    {
+      "symbol": "SPA-ETH"
+    },
+    {
+      "symbol": "SYNR-USDT"
+    },
+    {
+      "symbol": "DAR-USDT"
+    },
+    {
+      "symbol": "DAR-BTC"
+    },
+    {
+      "symbol": "MV-USDT"
+    },
+    {
+      "symbol": "XDEFI-USDT"
+    },
+    {
+      "symbol": "RACA-USDT"
+    },
+    {
+      "symbol": "XWG-USDT"
+    },
+    {
+      "symbol": "HAWK-USDT"
+    },
+    {
+      "symbol": "TRVL-BTC"
+    },
+    {
+      "symbol": "SWFTC-USDT"
+    },
+    {
+      "symbol": "BRWL-USDT"
+    },
+    {
+      "symbol": "TAUM-USDT"
+    },
+    {
+      "symbol": "CELR-USDT"
+    },
+    {
+      "symbol": "AURORA-USDT"
+    },
+    {
+      "symbol": "POSI-USDT"
+    },
+    {
+      "symbol": "COOHA-USDT"
+    },
+    {
+      "symbol": "KNC-USDT"
+    },
+    {
+      "symbol": "EPK-USDT"
+    },
+    {
+      "symbol": "PLD-USDT"
+    },
+    {
+      "symbol": "PSL-USDT"
+    },
+    {
+      "symbol": "PKF-USDT"
+    },
+    {
+      "symbol": "OVR-USDT"
+    },
+    {
+      "symbol": "SYS-USDT"
+    },
+    {
+      "symbol": "SYS-BTC"
+    },
+    {
+      "symbol": "BRISE-USDT"
+    },
+    {
+      "symbol": "DG-USDT"
+    },
+    {
+      "symbol": "EPX-USDT"
+    },
+    {
+      "symbol": "GST-USDT"
+    },
+    {
+      "symbol": "PLY-USDT"
+    },
+    {
+      "symbol": "GAL-USDT"
+    },
+    {
+      "symbol": "BSW-USDT"
+    },
+    {
+      "symbol": "FITFI-USDT"
+    },
+    {
+      "symbol": "FSN-USDT"
+    },
+    {
+      "symbol": "H2O-USDT"
+    },
+    {
+      "symbol": "GMM-USDT"
+    },
+    {
+      "symbol": "AKT-USDT"
+    },
+    {
+      "symbol": "SIN-USDT"
+    },
+    {
+      "symbol": "AUSD-USDT"
+    },
+    {
+      "symbol": "BOBA-USDT"
+    },
+    {
+      "symbol": "KARA-USDT"
+    },
+    {
+      "symbol": "BFC-USDT"
+    },
+    {
+      "symbol": "BIFI-USDT"
+    },
+    {
+      "symbol": "DFA-USDT"
+    },
+    {
+      "symbol": "KYL-USDT"
+    },
+    {
+      "symbol": "FCD-USDT"
+    },
+    {
+      "symbol": "MBL-USDT"
+    },
+    {
+      "symbol": "CELT-USDT"
+    },
+    {
+      "symbol": "DUSK-USDT"
+    },
+    {
+      "symbol": "USDD-USDT"
+    },
+    {
+      "symbol": "USDD-USDC"
+    },
+    {
+      "symbol": "FITFI-USDC"
+    },
+    {
+      "symbol": "APE-USDC"
+    },
+    {
+      "symbol": "AVAX-USDC"
+    },
+    {
+      "symbol": "SHIB-USDC"
+    },
+    {
+      "symbol": "XCN-USDC"
+    },
+    {
+      "symbol": "TRX-USDC"
+    },
+    {
+      "symbol": "NEAR-USDC"
+    },
+    {
+      "symbol": "MATIC-USDC"
+    },
+    {
+      "symbol": "FTM-USDC"
+    },
+    {
+      "symbol": "ZIL-USDC"
+    },
+    {
+      "symbol": "SOL-USDC"
+    },
+    {
+      "symbol": "MLS-USDT"
+    },
+    {
+      "symbol": "AFK-USDT"
+    },
+    {
+      "symbol": "AFK-USDC"
+    },
+    {
+      "symbol": "ACH-USDT"
+    },
+    {
+      "symbol": "SCRT-USDT"
+    },
+    {
+      "symbol": "SCRT-BTC"
+    },
+    {
+      "symbol": "APE3L-USDT"
+    },
+    {
+      "symbol": "APE3S-USDT"
+    },
+    {
+      "symbol": "STORE-USDT"
+    },
+    {
+      "symbol": "STORE-ETH"
+    },
+    {
+      "symbol": "GMT3L-USDT"
+    },
+    {
+      "symbol": "GMT3S-USDT"
+    },
+    {
+      "symbol": "CCD-USDT"
+    },
+    {
+      "symbol": "DOSE-USDC"
+    },
+    {
+      "symbol": "LUNC-USDT"
+    },
+    {
+      "symbol": "LUNC-USDC"
+    },
+    {
+      "symbol": "USTC-USDT"
+    },
+    {
+      "symbol": "USTC-USDC"
+    },
+    {
+      "symbol": "GMT-USDC"
+    },
+    {
+      "symbol": "VRA-USDC"
+    },
+    {
+      "symbol": "DOT-USDC"
+    },
+    {
+      "symbol": "RUNE-USDC"
+    },
+    {
+      "symbol": "ATOM-USDC"
+    },
+    {
+      "symbol": "BNB-USDC"
+    },
+    {
+      "symbol": "JASMY-USDC"
+    },
+    {
+      "symbol": "KCS-USDC"
+    },
+    {
+      "symbol": "KDA-USDC"
+    },
+    {
+      "symbol": "ALGO-USDC"
+    },
+    {
+      "symbol": "LUNA-USDC"
+    },
+    {
+      "symbol": "OP-USDT"
+    },
+    {
+      "symbol": "OP-USDC"
+    },
+    {
+      "symbol": "JASMY3L-USDT"
+    },
+    {
+      "symbol": "JASMY3S-USDT"
+    },
+    {
+      "symbol": "EVER-USDT"
+    },
+    {
+      "symbol": "MOOV-USDT"
+    },
+    {
+      "symbol": "IHC-USDT"
+    },
+    {
+      "symbol": "ICX-USDT"
+    },
+    {
+      "symbol": "ICX-ETH"
+    },
+    {
+      "symbol": "BTC-BRL"
+    },
+    {
+      "symbol": "ETH-BRL"
+    },
+    {
+      "symbol": "USDT-BRL"
+    },
+    {
+      "symbol": "WELL-USDT"
+    },
+    {
+      "symbol": "FORT-USDT"
+    },
+    {
+      "symbol": "USDP-USDT"
+    },
+    {
+      "symbol": "USDD-TRX"
+    },
+    {
+      "symbol": "CSPR-USDT"
+    },
+    {
+      "symbol": "CSPR-ETH"
+    },
+    {
+      "symbol": "WEMIX-USDT"
+    },
+    {
+      "symbol": "REV3L-USDT"
+    },
+    {
+      "symbol": "OLE-USDT"
+    },
+    {
+      "symbol": "LDO-USDT"
+    },
+    {
+      "symbol": "LDO-USDC"
+    },
+    {
+      "symbol": "CULT-USDT"
+    },
+    {
+      "symbol": "SWFTC-USDC"
+    },
+    {
+      "symbol": "FIDA-USDT"
+    },
+    {
+      "symbol": "BUSD-USDT"
+    },
+    {
+      "symbol": "RBP-USDT"
+    },
+    {
+      "symbol": "SRBP-USDT"
+    },
+    {
+      "symbol": "HIBAYC-USDT"
+    },
+    {
+      "symbol": "BUSD-USDC"
+    },
+    {
+      "symbol": "OGV-USDT"
+    },
+    {
+      "symbol": "WOMBAT-USDT"
+    },
+    {
+      "symbol": "HIPUNKS-USDT"
+    },
+    {
+      "symbol": "FT-USDT"
+    },
+    {
+      "symbol": "ETC-USDC"
+    },
+    {
+      "symbol": "HIENS4-USDT"
+    },
+    {
+      "symbol": "EGAME-USDT"
+    },
+    {
+      "symbol": "EGAME-BTC"
+    },
+    {
+      "symbol": "STEPWATCH-USDT"
+    },
+    {
+      "symbol": "HISAND33-USDT"
+    },
+    {
+      "symbol": "DC-USDT"
+    },
+    {
+      "symbol": "NEER-USDT"
+    },
+    {
+      "symbol": "RVN-USDT"
+    },
+    {
+      "symbol": "HIENS3-USDT"
+    },
+    {
+      "symbol": "MC-USDT"
+    },
+    {
+      "symbol": "PEEL-USDT"
+    },
+    {
+      "symbol": "PEEL-BTC"
+    },
+    {
+      "symbol": "SDL-USDT"
+    },
+    {
+      "symbol": "SDL-BTC"
+    },
+    {
+      "symbol": "SWEAT-USDT"
+    },
+    {
+      "symbol": "HIODBS-USDT"
+    },
+    {
+      "symbol": "CMP-USDT"
+    },
+    {
+      "symbol": "PIX-USDT"
+    },
+    {
+      "symbol": "MPLX-USDT"
+    },
+    {
+      "symbol": "HIDOODLES-USDT"
+    },
+    {
+      "symbol": "ETHW-USDT"
+    },
+    {
+      "symbol": "QUARTZ-USDT"
+    },
+    {
+      "symbol": "ACQ-USDT"
+    },
+    {
+      "symbol": "ACQ-USDC"
+    },
+    {
+      "symbol": "AOG-USDT"
+    },
+    {
+      "symbol": "HIMAYC-USDT"
+    },
+    {
+      "symbol": "PRMX-USDT"
+    },
+    {
+      "symbol": "RED-USDT"
+    },
+    {
+      "symbol": "PUMLX-USDT"
+    },
+    {
+      "symbol": "XETA-USDT"
+    },
+    {
+      "symbol": "GEM-USDT"
+    },
+    {
+      "symbol": "DERC-USDT"
+    },
+    {
+      "symbol": "P00LS-USDT"
+    },
+    {
+      "symbol": "P00LS-USDC"
+    },
+    {
+      "symbol": "KICKS-USDT"
+    },
+    {
+      "symbol": "TRIBL-USDT"
+    },
+    {
+      "symbol": "GMX-USDT"
+    },
+    {
+      "symbol": "HIOD-USDT"
+    },
+    {
+      "symbol": "POKT-USDT"
+    },
+    {
+      "symbol": "EFI-USDT"
+    },
+    {
+      "symbol": "APT-USDT"
+    },
+    {
+      "symbol": "BBC-USDT"
+    },
+    {
+      "symbol": "EUL-USDT"
+    },
+    {
+      "symbol": "TON-USDT"
+    },
+    {
+      "symbol": "PIAS-USDT"
+    },
+    {
+      "symbol": "HIMEEBITS-USDT"
+    },
+    {
+      "symbol": "HISQUIGGLE-USDT"
+    },
+    {
+      "symbol": "XCV-USDT"
+    },
+    {
+      "symbol": "HFT-USDT"
+    },
+    {
+      "symbol": "HFT-USDC"
+    },
+    {
+      "symbol": "ECOX-USDT"
+    },
+    {
+      "symbol": "AMB-USDT"
+    },
+    {
+      "symbol": "AZERO-USDT"
+    },
+    {
+      "symbol": "HIFIDENZA-USDT"
+    },
+    {
+      "symbol": "BEAT-USDT"
+    },
+    {
+      "symbol": "NRFB-USDT"
+    },
+    {
+      "symbol": "NRFB-BTC"
+    },
+    {
+      "symbol": "HIGAZERS-USDT"
+    },
+    {
+      "symbol": "NAVI-USDT"
+    },
+    {
+      "symbol": "CARE-USDT"
+    },
+    {
+      "symbol": "CLUB-USDT"
+    },
+    {
+      "symbol": "HIPENGUINS-USDT"
+    },
+    {
+      "symbol": "ALT-USDT"
+    },
+    {
+      "symbol": "HICLONEX-USDT"
+    },
+    {
+      "symbol": "PRIMAL-USDT"
+    },
+    {
+      "symbol": "PRIMAL-USDC"
+    },
+    {
+      "symbol": "OAS-USDT"
+    },
+    {
+      "symbol": "VEMP-USDC"
+    },
+    {
+      "symbol": "HICOOLCATS-USDT"
+    },
+    {
+      "symbol": "HIAZUKI-USDT"
+    },
+    {
+      "symbol": "TEM-USDT"
+    },
+    {
+      "symbol": "HIFLUF-USDT"
+    },
+    {
+      "symbol": "HIBIRDS-USDT"
+    },
+    {
+      "symbol": "BDX-USDT"
+    },
+    {
+      "symbol": "BDX-BTC"
+    },
+    {
+      "symbol": "FLR-USDT"
+    },
+    {
+      "symbol": "FLR-USDC"
+    },
+    {
+      "symbol": "HIMFERS-USDT"
+    },
+    {
+      "symbol": "OSMO-USDT"
+    },
+    {
+      "symbol": "ASTRA-USDT"
+    },
+    {
+      "symbol": "MAGIC-USDT"
+    }
+  ]
+}
