@@ -5,7 +5,7 @@ import videoHome from "../assets/home.mp4";
 
 const Home = () => {
   return (
-    <div className="home animate__animated animate__fadeIn">
+    <div className="home ">
       <h3 className="text-center pt-3 ">ExchangMonitor</h3>
       <div className="container ">
         <div className="row ">
